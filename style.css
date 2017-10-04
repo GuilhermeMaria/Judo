@@ -1,3 +1,16 @@
-#cabecalho{
+.topo{
 	background-color: #6495ED;
+	width: 100%;
+	height: 100%;
+	padding: 5px;
+}
+.seção{
+	background-color: #32CD32;
+	padding: 5px;
+	margin: 5px;
+	border: solid 7px; border-color: #00ffff;
+}
+.img{
+	width: 20%;
+	height:20%;
 }
